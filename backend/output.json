@@ -1,0 +1,54 @@
+{
+    "videos": [
+        {
+            "voice_id": "21m00Tcm4TlvDq8ikWAM",
+            "name": "Rachel",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "model_id": null,
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {},
+            "description": null,
+            "preview_url": "https://www.youtube.com/watch?v=21m00Tcm4TlvDq8ikWAM",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null
+        },
+        {
+            "voice_id": "AZnzlk1XvdvUeBnXmlld",
+            "name": "Domi",
+            "samples": null,
+            "category": "premade",
+            "fine_tuning": {
+                "model_id": null,
+                "language": null,
+                "is_allowed_to_fine_tune": false,
+                "fine_tuning_requested": false,
+                "finetuning_state": "not_started",
+                "verification_attempts": null,
+                "verification_failures": [],
+                "verification_attempts_count": 0,
+                "slice_ids": null,
+                "manual_verification": null,
+                "manual_verification_requested": false
+            },
+            "labels": {},
+            "description": null,
+            "preview_url": "https://www.youtube.com/watch?v=AZnzlk1XvdvUeBnXmlld",
+            "available_for_tiers": [],
+            "settings": null,
+            "sharing": null
+        }
+    ]
+}
